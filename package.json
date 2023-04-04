@@ -1,0 +1,13 @@
+{
+  "name": "cache-updater",
+  "version": "1.0.0",
+  "author": "moolsbytheway",
+  "scripts": {
+    "start": "node dist/cache_updater.js"
+  },
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.18.0",
+    "redis": "^4.6.5"
+  }
+}

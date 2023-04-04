@@ -1,0 +1,11 @@
+{
+  "appBaseUrl": "http://localhost:8080",
+  "redisConnectionString": "redis://user:pass@localhost:6379",
+  "cacheRefreshCollectionName": "cache-refresh-store",
+  "firebase": {
+    "apiKey": "dummy-api-key",
+    "authDomain": "dummy-project-id.firebaseapp.com",
+    "projectId": "dummy-project-id",
+    "storageBucket": "dummy-project-id.appspot.com"
+  }
+}
